@@ -4,7 +4,7 @@
 }
 
 #container {
-	margin: 0 auto;
+	margin: 10% auto;
 	width: 500px;
 	height: 375px;
 	border: 10px #222 solid;
@@ -14,4 +14,17 @@
 	width: 500px;
 	height: 375px;
 	background-color: gainsboro;
+}
+
+.btn {
+	width: 100px;
+	height: 50px;
+	border: 1px solid #222;
+	border-radius: 6px;
+	text-align: center;
+	display: inline-block;
+	/*	margin: 5% auto;*/
+	line-height: 50px;
+	font-size: 20px;
+	cursor: pointer;
 }
